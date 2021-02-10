@@ -1,4 +1,4 @@
-package com.example.clientecrudproviderehvm.ui.gallery;
+package com.example.clienteproviderboagam.ui.gallery;
 
 import android.app.Activity;
 import android.content.ContentResolver;
@@ -20,7 +20,7 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.example.clientecrudproviderehvm.R;
-import com.example.clientecrudproviderehvm.provider.MiProveedorContenidoContract;
+import com.example.clienteproviderboagam.provider.MiProveedorContenidoContract;
 
 public class GalleryFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package com.example.clientecrudproviderehvm.provider;
+package com.example.clienteproviderboagam.provider;
 
 import android.net.Uri;
 import android.provider.BaseColumns;

@@ -1,4 +1,4 @@
-package com.example.clientecrudproviderehvm.ui.home;
+package com.example.clienteproviderboagam.ui.home;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -21,11 +21,12 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+
 import com.example.clientecrudproviderehvm.R;
-import com.example.clientecrudproviderehvm.data.AdapdadorRecyclerCursor;
-import com.example.clientecrudproviderehvm.provider.MiProveedorContenidoContract;
-import com.example.clientecrudproviderehvm.ui.Modificar;
-import com.example.clientecrudproviderehvm.ui.SeleccionarUno;
+import com.example.clienteproviderboagam.data.AdapdadorRecyclerCursor;
+import com.example.clienteproviderboagam.provider.MiProveedorContenidoContract;
+import com.example.clienteproviderboagam.ui.Modificar;
+import com.example.clienteproviderboagam.ui.SeleccionarUno;
 
 public class HomeFragment extends Fragment {
 

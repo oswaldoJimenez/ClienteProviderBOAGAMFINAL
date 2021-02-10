@@ -1,4 +1,4 @@
-package com.example.clientecrudproviderehvm.ui;
+package com.example.clienteproviderboagam.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -13,7 +13,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.example.clientecrudproviderehvm.R;
-import com.example.clientecrudproviderehvm.provider.MiProveedorContenidoContract;
+import com.example.clienteproviderboagam.provider.MiProveedorContenidoContract;
 
 public class Modificar extends AppCompatActivity {
     Cursor cursor;

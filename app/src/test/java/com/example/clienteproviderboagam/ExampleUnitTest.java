@@ -1,4 +1,4 @@
-package com.example.clientecrudproviderehvm;
+package com.example.clienteproviderboagam;
 
 import org.junit.Test;
 

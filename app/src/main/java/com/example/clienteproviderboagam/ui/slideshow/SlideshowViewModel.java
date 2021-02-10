@@ -1,4 +1,4 @@
-package com.example.clientecrudproviderehvm.ui.slideshow;
+package com.example.clienteproviderboagam.ui.slideshow;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

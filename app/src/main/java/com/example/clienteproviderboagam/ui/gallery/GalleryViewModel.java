@@ -1,4 +1,4 @@
-package com.example.clientecrudproviderehvm.ui.gallery;
+package com.example.clienteproviderboagam.ui.gallery;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
