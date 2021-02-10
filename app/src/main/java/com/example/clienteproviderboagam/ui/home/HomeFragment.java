@@ -22,7 +22,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
-import com.example.clientecrudproviderehvm.R;
+import com.example.clienteproviderboagam.R;
 import com.example.clienteproviderboagam.data.AdapdadorRecyclerCursor;
 import com.example.clienteproviderboagam.provider.MiProveedorContenidoContract;
 import com.example.clienteproviderboagam.ui.Modificar;

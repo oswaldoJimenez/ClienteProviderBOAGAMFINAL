@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.clientecrudproviderehvm">
+    package="com.example.clienteproviderboagam">
     <uses-permission android:name="net.ivanvega.actividadesenandorid.WRITE_PERMISSION"/>
     <uses-permission android:name="net.ivanvega.actividadesenandorid.READ_PERMISSION"/>
     <application
@@ -9,13 +9,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ClienteCRUDProviderEHVM">
+        android:theme="@style/Platform.MaterialComponents.Light">
         <activity android:name=".ui.SeleccionarUno"></activity>
         <activity android:name=".ui.Modificar" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/Theme.ClienteCRUDProviderEHVM.NoActionBar">
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

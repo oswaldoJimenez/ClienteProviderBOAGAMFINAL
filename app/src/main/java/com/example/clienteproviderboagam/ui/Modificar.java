@@ -12,7 +12,7 @@ import android.util.Log;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.clientecrudproviderehvm.R;
+import com.example.clienteproviderboagam.R;
 import com.example.clienteproviderboagam.provider.MiProveedorContenidoContract;
 
 public class Modificar extends AppCompatActivity {

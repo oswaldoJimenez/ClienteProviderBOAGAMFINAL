@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/purple_200"
     tools:context=".ui.Modificar">
+
     <EditText
         android:id="@+id/txtNombre"
         android:layout_width="0dp"
@@ -60,14 +62,14 @@
         android:id="@+id/btnGuardar"
         android:layout_width="160dp"
         android:layout_height="39dp"
-        android:layout_marginTop="60dp"
         android:layout_marginBottom="392dp"
         android:text="@string/registro_guardar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.44"
         app:layout_constraintStart_toEndOf="@+id/btnCancelar"
-        app:layout_constraintTop_toBottomOf="@+id/spnPaises" />
+        app:layout_constraintTop_toBottomOf="@+id/txtTel"
+        app:layout_constraintVertical_bias="1.0" />
 
     <Button
         android:id="@+id/btnCancelar"

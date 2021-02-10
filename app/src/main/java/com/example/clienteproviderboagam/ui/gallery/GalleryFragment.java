@@ -19,7 +19,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.clientecrudproviderehvm.R;
+import com.example.clienteproviderboagam.R;
 import com.example.clienteproviderboagam.provider.MiProveedorContenidoContract;
 
 public class GalleryFragment extends Fragment {
